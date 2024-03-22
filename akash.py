@@ -1,4 +1,4 @@
-class queue:
+class suhail:
     def __init__(self):
         self.quque=[]
     def insert(self):
